@@ -1,0 +1,11 @@
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\Quieres ser mi novia.exe.config
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\Quieres ser mi novia.exe
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\bin\Debug\Quieres ser mi novia.pdb
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres ser mi novia.csproj.AssemblyReference.cache
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres ser mi novia.csproj.SuggestedBindingRedirects.cache
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres_ser_mi_novia.Form1.resources
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres_ser_mi_novia.Properties.Resources.resources
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres ser mi novia.csproj.GenerateResource.cache
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres ser mi novia.csproj.CoreCompileInputs.cache
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres ser mi novia.exe
+C:\Users\joses\source\repos\Quieres ser mi novia\Quieres ser mi novia\obj\Debug\Quieres ser mi novia.pdb
